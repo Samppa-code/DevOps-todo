@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevOps-todo/static/css/main.736ccca2.css",
+    "main.js": "/DevOps-todo/static/js/main.b94599cd.js",
+    "index.html": "/DevOps-todo/index.html",
+    "main.736ccca2.css.map": "/DevOps-todo/static/css/main.736ccca2.css.map",
+    "main.b94599cd.js.map": "/DevOps-todo/static/js/main.b94599cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736ccca2.css",
+    "static/js/main.b94599cd.js"
+  ]
+}
