@@ -4,5 +4,5 @@ import { TodoList } from './TodoList';
 it( 'renders No task found when list is empty', () => {
     render(<TodoList />);
     const linkElement = screen.getByText(/No task found/i);
-    expect(linkElement).!toBeInTheDocument();
+    expect(linkElement).toBeInTheDocument();
 });
