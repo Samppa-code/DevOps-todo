@@ -2,7 +2,7 @@
   "name": "todo-with-github-actions-and-jest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https.//Samppa-code.github.io/DevOps-todo",
+  "homepage": "https://Samppa-code.github.io/DevOps-todo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -32,8 +32,5 @@
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^3.5.2"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
