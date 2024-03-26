@@ -15,6 +15,7 @@ const App = () => {
     }
   };
 
+  
   const deleteTodo = (text) => {
     const newTodos = todos.filter((todo) => {
       return todo !== text;
