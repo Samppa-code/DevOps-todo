@@ -2,11 +2,14 @@
   "name": "todo-with-github-actions-and-jest",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https.//Samppa-code.github.io/DevOps-todo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
